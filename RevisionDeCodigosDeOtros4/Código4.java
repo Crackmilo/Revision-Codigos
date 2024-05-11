@@ -1,3 +1,7 @@
+// Luis Camilo Angel Sesma
+// Retroalimentación: Competente
+// Comentarios: Hicieron falta las mejores prácticas y estándares en cu código (así como explicar paso a paso lo que estaba haciendo)
+
 package org.generation.P3;
 import java.util.Scanner;
 

@@ -1,4 +1,6 @@
-// Tenemos un li de productos
+// Luis Camilo Angel Sesma
+// Retroalimentación: Avanzado
+// Comentarios: El programa cuenta con una secuencia lógica y se ejecuta correctamente
 
 const productos = [
   {nombre: "Zapato negro", tipo: "zapato", color: "negro", img: "./taco-negro.jpg"},

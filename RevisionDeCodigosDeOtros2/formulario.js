@@ -1,3 +1,7 @@
+// Luis Camilo Angel Sesma
+// Retroalimentación: Avanzado
+// Comentarios: El programa se ejectua correctamente
+
 var formulario = document.querySelector("#form");
 
 formulario.onsubmit = function(event) {

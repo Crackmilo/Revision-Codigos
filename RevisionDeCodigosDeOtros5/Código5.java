@@ -1,3 +1,7 @@
+// Luis Camilo Angel Sesma
+// Retroalimentación: Competente
+// Comentarios: Hace falta de comentarios que expliquen cada parte del código
+
 package retos;
 
 import java.util.Scanner;

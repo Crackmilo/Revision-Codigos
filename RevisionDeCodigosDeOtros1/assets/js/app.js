@@ -1,3 +1,7 @@
+// Luis Camilo Angel Sesma
+// Retroalimentación: Competente
+// Comentarios: Hace falta de comentarios que expliquen cada parte del código
+
 const baseEndpoint = 'https://api.github.com';
 const usersEndpoint = `${baseEndpoint}/users`;
 const $n = document.querySelector('.name');
